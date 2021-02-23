@@ -2,7 +2,7 @@
 
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
-Cryptocurrency Mobile Wallet | Cryptocurrency Desktop Wallet | Cryptocurrency Betting Game | MOBILE Application
+Cryptocurrency<br/>Mobile Wallet | Cryptocurrency<br/>Desktop Wallet | Cryptocurrency<br/>Betting Game | MOBILE<br/>Application
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <a href="#"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/CoinBridge-Feature-370x370.jpg" width="370"></a>| <a href="https://aldenplatform.io/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Main_News@2x-370x370.jpg" width="370"></a>| <a href="https://bitwilly.com/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Bitwilly-370x370.jpg" width="370"></a>|<a href="https://apps.apple.com/it/app/spreewhere/id1462263606"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Spreewhere-Feature-370x370.jpg" width="370"></a>
 
