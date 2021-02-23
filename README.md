@@ -1,4 +1,4 @@
-<h1 align="center" > Fullstack Developer</h1> <br>
+<h1 align="center" >Blockchain & Fullstack Developer</h1> <br>
 
 ### 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
