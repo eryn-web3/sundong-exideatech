@@ -1,13 +1,13 @@
 <h1 align="center" >Blockchain & Fullstack Developer</h1> <br>
 
-### 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+### Featured Projects
 
 Cryptocurrency<br/>Mobile Wallet | Cryptocurrency<br/>Desktop Wallet | Cryptocurrency<br/>Betting Game | MOBILE<br/>Application
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <a href="#"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/CoinBridge-Feature-370x370.jpg" width="370"></a>| <a href="https://aldenplatform.io/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Main_News@2x-370x370.jpg" width="370"></a>| <a href="https://bitwilly.com/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Bitwilly-370x370.jpg" width="370"></a>|<a href="https://apps.apple.com/it/app/spreewhere/id1462263606"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Spreewhere-Feature-370x370.jpg" width="370"></a>
 <br>
 
-### 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
+### Skill Set
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
