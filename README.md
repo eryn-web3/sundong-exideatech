@@ -32,12 +32,11 @@
 
 
 ## My Service
-
-- Cryptocurrency Wallet Development
-- Defi(Uniswap & SushiSwap) Development
+- Smart contract Development
+- Defi(Uniswap & Pancakeswap) Development
 - NFT(ERC721 & ERC1155) Development
-- Wordpress Theme and Plugin Development
-- React Native App Development
+- React.js Frontend Development
+- Wordpress Development
 <br>
 
 
