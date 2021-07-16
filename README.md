@@ -3,12 +3,12 @@
 ### Featured Projects
 
 #### Pancakeswap Fork
-<a href="https://deerswap.org/" >DeerSwap</a>
+<a href="https://deerswap.org/" target="_blank" >DeerSwap</a>
+<a href="https://xebswap.com/#/swap" target="_blank" >XEBSwap</a>
+<a href="https://captainswap.finance/#/" target="_blank" >XEBSwap</a>
 
-<a href="https://xebswap.com/#/swap" >XEBSwap</a>
-
-<a href="https://captainswap.finance/#/" >XEBSwap</a>
-
+#### Uniswap Fork
+<a href="https://shikbank.com" target="_blank" >ShikBank</a>
 <br>
 
 ### Skill Set
