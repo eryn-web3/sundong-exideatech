@@ -4,7 +4,7 @@
 #### Pancakeswap Fork
 <a href="https://deerswap.org/" target="_blank" >DeerSwap</a> | 
 <a href="https://xebswap.com/#/swap" target="_blank" >XEBSwap</a> | 
-<a href="https://captainswap.finance/#/" target="_blank" >XEBSwap</a>
+<a href="https://captainswap.finance/#/" target="_blank" >CaptainSwap</a>
 
 #### Uniswap Fork
 <a href="https://shikbank.com" target="_blank" >ShikBank</a>
