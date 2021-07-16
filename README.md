@@ -3,8 +3,8 @@
 ### Featured Projects
 
 #### Pancakeswap Fork
-<a href="https://deerswap.org/" target="_blank" >DeerSwap</a>
-<a href="https://xebswap.com/#/swap" target="_blank" >XEBSwap</a>
+<a href="https://deerswap.org/" target="_blank" >DeerSwap</a> | 
+<a href="https://xebswap.com/#/swap" target="_blank" >XEBSwap</a> | 
 <a href="https://captainswap.finance/#/" target="_blank" >XEBSwap</a>
 
 #### Uniswap Fork
