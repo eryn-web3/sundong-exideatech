@@ -1,7 +1,6 @@
 <h1 align="center" >Blockchain & DeFi Developer</h1> <br>
 
-### Featured Projects
-
+## Featured Projects
 #### Pancakeswap Fork
 <a href="https://deerswap.org/" target="_blank" >DeerSwap</a> | 
 <a href="https://xebswap.com/#/swap" target="_blank" >XEBSwap</a> | 
@@ -11,7 +10,8 @@
 <a href="https://shikbank.com" target="_blank" >ShikBank</a>
 <br>
 
-### Skill Set
+
+## Skill Set
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
@@ -30,7 +30,8 @@
 </table>
 <br>
 
-### My Service
+
+## My Service
 
 - Cryptocurrency Wallet Development
 - Defi(Uniswap & SushiSwap) Development
@@ -38,6 +39,7 @@
 - Wordpress Theme and Plugin Development
 - React Native App Development
 <br>
+
 
 ### Contact Me 👋
 - <a href="https://discordapp.com/users/453097301485813761">Discord</a>
