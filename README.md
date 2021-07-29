@@ -1,12 +1,20 @@
 <h1 align="center" >Blockchain & DeFi Developer</h1> <br>
 
 ## Featured Projects
-#### Pancakeswap Fork
-<a href="https://deerswap.org/" target="_blank" >DeerSwap</a> | 
-<a href="https://xebswap.com/#/swap" target="_blank" >XEBSwap</a> | 
+### Pancakeswap Fork
+#### BSC
+<a href="https://deerswap.org/" target="_blank" >DeerSwap</a>
+
+<a href="https://xebswap.com/#/swap" target="_blank" >XEBSwap</a>
+
 <a href="https://captainswap.finance/#/" target="_blank" >CaptainSwap</a>
 
-#### Uniswap Fork
+<a href="https://happyswap.finance/#/" target="_blank" >HappySwap</a>
+
+#### Fantom Opera Chain
+<a href="https://thexdoa.com/#/" target="_blank" >CyberSwap (Fantom Opera Chain)</a>
+
+### Uniswap Fork
 <a href="https://shikbank.com" target="_blank" >ShikBank</a>
 <br>
 
