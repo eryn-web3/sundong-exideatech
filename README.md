@@ -3,16 +3,16 @@
 ## Featured Projects
 ### Pancakeswap Fork
 #### BSC
-<a href="https://deerswap.org/" target="_blank" ><img width="40" src="https://deerswap.org/images/farms/deer.png" > DeerSwap</a>
-
-<a href="https://xebswap.com/#/swap" target="_blank" >XEBSwap</a>
-
-<a href="https://captainswap.finance/#/" target="_blank" >CaptainSwap</a>
-
-<a href="https://happyswap.finance/#/" target="_blank" >HappySwap</a>
+<div><a href="https://deerswap.org/" target="_blank" >DeerSwap</a></div>
+<div><a href="https://xebswap.com/#/swap" target="_blank" >XEBSwap</a></div>
+<div><a href="https://captainswap.finance/#/" target="_blank" >CaptainSwap</a></div>
+<div><a href="https://happyswap.finance/#/" target="_blank" >HappySwap</a></div>
+<div><a href="https://pushprotocol.finance/" target="_blank" >Push Protocol</a></div>
+<div><a href="http://satoswap.finance/" target="_blank" >SatoSwap</a></div>
+<div><a href="https://shibbyswap.com/#/" target="_blank" >ShibbySwap</a></div>
 
 #### Fantom Opera Chain
-<a href="https://thexdoa.com/#/" target="_blank" >CyberSwap</a>
+<div><a href="https://thexdoa.com/#/" target="_blank" >CyberSwap</a></div>
 
 ### Uniswap Fork
 <a href="https://shikbank.com" target="_blank" >ShikBank</a>
