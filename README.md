@@ -3,7 +3,10 @@
 ## Featured Projects
 ### Pancakeswap Fork
 #### BSC
-<a href="https://deerswap.org/" target="_blank" >DeerSwap</a>
+<div style="width:200px;text-align:center;display:inline-block;">
+  <a href="https://deerswap.org/" target="_blank" >DeerSwap</a>
+</div>
+
 
 <a href="https://xebswap.com/#/swap" target="_blank" >XEBSwap</a>
 
@@ -12,7 +15,7 @@
 <a href="https://happyswap.finance/#/" target="_blank" >HappySwap</a>
 
 #### Fantom Opera Chain
-<a href="https://thexdoa.com/#/" target="_blank" >CyberSwap (Fantom Opera Chain)</a>
+<a href="https://thexdoa.com/#/" target="_blank" >CyberSwap</a>
 
 ### Uniswap Fork
 <a href="https://shikbank.com" target="_blank" >ShikBank</a>
