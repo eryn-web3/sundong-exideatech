@@ -3,10 +3,7 @@
 ## Featured Projects
 ### Pancakeswap Fork
 #### BSC
-<div style="width:200px;text-align:center;display:inline-block;">
-  <a href="https://deerswap.org/" target="_blank" >DeerSwap</a>
-</div>
-
+<a href="https://deerswap.org/" target="_blank" ><img src="https://deerswap.org/images/farms/deer.png" > DeerSwap</a>
 
 <a href="https://xebswap.com/#/swap" target="_blank" >XEBSwap</a>
 
