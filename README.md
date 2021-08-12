@@ -10,6 +10,7 @@
 <div><a href="https://pushprotocol.finance/" target="_blank" >Push Protocol</a></div>
 <div><a href="http://satoswap.finance/" target="_blank" >SatoSwap</a></div>
 <div><a href="https://shibbyswap.com/#/" target="_blank" >ShibbySwap</a></div>
+<div><a href="https://fortuneswap.finance/#/" target="_blank" >FortuneSwap</a></div>
 
 #### Fantom Opera Chain
 <div><a href="https://thexdoa.com/#/" target="_blank" >CyberSwap</a></div>
