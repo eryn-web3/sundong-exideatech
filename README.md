@@ -19,6 +19,9 @@
 <a href="https://shikbank.com" target="_blank" >ShikBank</a>
 <br>
 
+### NFT
+<a href="https://nft.satoshihunters.finance/#/" target="_blank" >SatoshiHunters NFT marketplace</a>
+
 ***
 ## Skill Set
 <table>
