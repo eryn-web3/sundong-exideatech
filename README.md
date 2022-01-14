@@ -45,41 +45,20 @@
 
 | Project Name | Website URL | Genre |
 | --- | --- | --- |
-| Deerswap | https://deerswap.org/ | DeFi |
-| XEBSwap | https://xebswap.com/#/swap | DeFi |
-| FortuneSwap | https://fortuneswap.finance/#/ | DeFi |
-| SatoSwap | http://satoswap.finance/ | DeFi |
-| CaptainSwap | https://captainswap.finance/ | DeFi |
-| HappySwap | https://happyswap.finance/ | DeFi |
-| ShibbySwap | https://shibbyswap.com/ | DeFi |
-| Push Protocol | https://pushprotocol.finance/ | DeFi |
-| CyberSwap | https://thexdoa.com/ | DeFi |
-| ShikBank | https://shikbank.com | DeFi |
-| SatoshiHunters NFT | https://nft.satoshihunters.finance/ | NFT |
+| Deerswap | https://deerswap.org/ | PancakeSwap Fork (BSC) |
+| XEBSwap | https://xebswap.com/#/swap |  |
+| FortuneSwap | https://fortuneswap.finance/#/ |  |
+| SatoSwap | http://satoswap.finance/ |  |
+| CaptainSwap | https://captainswap.finance/ |  |
+| HappySwap | https://happyswap.finance/ |  |
+| ShibbySwap | https://shibbyswap.com/ |  |
+| Push Protocol | https://pushprotocol.finance/ |  |
+| CyberSwap | https://thexdoa.com/ | PancakeSwap Fork (Fantom) |
+| ShikBank | https://shikbank.com | Uniswap Fork |
+| SatoshiHunters NFT | https://nft.satoshihunters.finance/ | NFT Marketplace |
 
 
-### Pancakeswap Fork
-#### BSC
-<div><a href="https://deerswap.org/" target="_blank" >DeerSwap</a></div>
-<div><a href="https://xebswap.com/#/swap" target="_blank" >XEBSwap</a></div>
-<div><a href="https://captainswap.finance/#/" target="_blank" >CaptainSwap</a></div>
-<div><a href="https://happyswap.finance/#/" target="_blank" >HappySwap</a></div>
-<div><a href="https://pushprotocol.finance/" target="_blank" >Push Protocol</a></div>
-<div><a href="http://satoswap.finance/" target="_blank" >SatoSwap</a></div>
-<div><a href="https://shibbyswap.com/#/" target="_blank" >ShibbySwap</a></div>
-<div><a href="https://fortuneswap.finance/#/" target="_blank" >FortuneSwap</a></div>
-
-#### Fantom Opera Chain
-<div><a href="https://thexdoa.com/#/" target="_blank" >CyberSwap</a></div>
-
-### Uniswap Fork
-<a href="https://shikbank.com" target="_blank" >ShikBank</a>
-<br>
-
-### NFT
-<a href="https://nft.satoshihunters.finance/#/" target="_blank" >SatoshiHunters NFT marketplace</a>
-
-
+***
 
 ### Contact Me 👋
 - <a href="https://discordapp.com/users/453097301485813761">Discord</a>
