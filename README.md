@@ -26,6 +26,15 @@
 </p>
 
 ***
+## My Services
+☻ Smart contract Development
+♥ Defi(Uniswap & Pancakeswap) Development
+♦ NFT(ERC721 & ERC1155) Development
+♣ React.js Frontend Development
+♠ Wordpress Development
+<br>
+
+***
 
 ## Featured Projects
 ### Pancakeswap Fork
@@ -49,14 +58,6 @@
 ### NFT
 <a href="https://nft.satoshihunters.finance/#/" target="_blank" >SatoshiHunters NFT marketplace</a>
 
-***
-## My Service
-- Smart contract Development
-- Defi(Uniswap & Pancakeswap) Development
-- NFT(ERC721 & ERC1155) Development
-- React.js Frontend Development
-- Wordpress Development
-<br>
 
 
 ### Contact Me 👋
