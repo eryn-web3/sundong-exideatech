@@ -42,6 +42,22 @@
 ***
 
 ## Featured Projects
+
+| Project Name | Website URL | Genre |
+| --- | --- | --- |
+| Deerswap | https://deerswap.org/ | DeFi |
+| XEBSwap | https://xebswap.com/#/swap | DeFi |
+| FortuneSwap | https://fortuneswap.finance/#/ | DeFi |
+| SatoSwap | http://satoswap.finance/ | DeFi |
+| CaptainSwap | https://captainswap.finance/ | DeFi |
+| HappySwap | https://happyswap.finance/ | DeFi |
+| ShibbySwap | https://shibbyswap.com/ | DeFi |
+| Push Protocol | https://pushprotocol.finance/ | DeFi |
+| CyberSwap | https://thexdoa.com/ | DeFi |
+| ShikBank | https://shikbank.com | DeFi |
+| SatoshiHunters NFT | https://nft.satoshihunters.finance/ | NFT |
+
+
 ### Pancakeswap Fork
 #### BSC
 <div><a href="https://deerswap.org/" target="_blank" >DeerSwap</a></div>
