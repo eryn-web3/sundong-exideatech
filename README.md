@@ -20,8 +20,8 @@
 <br>
 
 <p align="center">
-  <a href= "https://github.com/sundong-exideatech/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sundong-exideatech&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundong-exideatech&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=sundong-exideatech&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundong-exideatech&layout=compact" />
 </p>
 
 ***
