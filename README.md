@@ -27,7 +27,7 @@
 
 ***
 ## My Services
-☻ Smart contract Development
+☺ Smart contract Development
 
 ♥ Defi(Uniswap & Pancakeswap) Development
 
