@@ -19,8 +19,6 @@
 </table>
 <br>
 
-## My GitHub Stats
-
 <p align="center">
   <a href= "https://github.com/sundong-exideatech/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sundong-exideatech&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
   
