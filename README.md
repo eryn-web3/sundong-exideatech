@@ -1,4 +1,4 @@
-<h1 align="center" >Blockchain & DeFi Developer</h1> <br>
+<h1 align="center" >Highly Experienced DApp Developer</h1> <br>
 
 ## Skillset
 <table>
@@ -46,13 +46,13 @@
 | Project Name | Website URL | Genre |
 | --- | --- | --- |
 | Deerswap | https://deerswap.org/ | PancakeSwap Fork (BSC) |
-| XEBSwap | https://xebswap.com/#/swap | " |
-| FortuneSwap | https://fortuneswap.finance/#/ | " |
-| SatoSwap | http://satoswap.finance/ | " |
-| CaptainSwap | https://captainswap.finance/ | " |
-| HappySwap | https://happyswap.finance/ | " |
-| ShibbySwap | https://shibbyswap.com/ | " |
-| Push Protocol | https://pushprotocol.finance/ | " |
+| XEBSwap | https://xebswap.com/#/swap | PancakeSwap Fork (BSC) |
+| FortuneSwap | https://fortuneswap.finance/#/ | PancakeSwap Fork (BSC) |
+| SatoSwap | http://satoswap.finance/ | PancakeSwap Fork (BSC) |
+| CaptainSwap | https://captainswap.finance/ | PancakeSwap Fork (BSC) |
+| HappySwap | https://happyswap.finance/ | PancakeSwap Fork (BSC) |
+| ShibbySwap | https://shibbyswap.com/ | PancakeSwap Fork (BSC) |
+| Push Protocol | https://pushprotocol.finance/ | PancakeSwap Fork (BSC) |
 | CyberSwap | https://thexdoa.com/ | PancakeSwap Fork (Fantom) |
 | ShikBank | https://shikbank.com | Uniswap Fork |
 | SatoshiHunters NFT | https://nft.satoshihunters.finance/ | NFT Marketplace |
