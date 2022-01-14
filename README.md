@@ -46,13 +46,13 @@
 | Project Name | Website URL | Genre |
 | --- | --- | --- |
 | Deerswap | https://deerswap.org/ | PancakeSwap Fork (BSC) |
-| XEBSwap | https://xebswap.com/#/swap |  |
-| FortuneSwap | https://fortuneswap.finance/#/ |  |
-| SatoSwap | http://satoswap.finance/ |  |
-| CaptainSwap | https://captainswap.finance/ |  |
-| HappySwap | https://happyswap.finance/ |  |
-| ShibbySwap | https://shibbyswap.com/ |  |
-| Push Protocol | https://pushprotocol.finance/ |  |
+| XEBSwap | https://xebswap.com/#/swap | " |
+| FortuneSwap | https://fortuneswap.finance/#/ | " |
+| SatoSwap | http://satoswap.finance/ | " |
+| CaptainSwap | https://captainswap.finance/ | " |
+| HappySwap | https://happyswap.finance/ | " |
+| ShibbySwap | https://shibbyswap.com/ | " |
+| Push Protocol | https://pushprotocol.finance/ | " |
 | CyberSwap | https://thexdoa.com/ | PancakeSwap Fork (Fantom) |
 | ShikBank | https://shikbank.com | Uniswap Fork |
 | SatoshiHunters NFT | https://nft.satoshihunters.finance/ | NFT Marketplace |
