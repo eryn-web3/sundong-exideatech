@@ -61,9 +61,9 @@
 ***
 
 ### Contact Me 👋
-<a style="display:inline-block;" href="https://discordapp.com/users/453097301485813761"><img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" width="30" alt="discord icon"/></a>
+<a href="https://discordapp.com/users/453097301485813761"><img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" width="30" height="30" alt="discord icon"/></a>
 &nbsp;
-<a style="display:inline-block;" href="https://www.linkedin.com/in/sun-dong-82966617a/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30" alt="linkedin icon"/></a>
+<a href="https://www.linkedin.com/in/sun-dong-82966617a/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30" height="30" alt="linkedin icon"/></a>
 
 
 
